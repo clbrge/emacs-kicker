@@ -71,4 +71,4 @@ If you want a different setup from the basic +emacs-kicker+ here, the
 simplest way is certainly to fork the project on github then use your own.
 
 Happy Hacking!
-a
+aa
